@@ -1,6 +1,6 @@
 <h1>Ali Al Haj Hassan</h1>
 
-  - 30 years old.
+  - 31 years old.
   - 📅 Currently traning at HumanBooster as Development And Web Mobile!
   - 🔍 Looking for an internship in to validate my diploma.
   - 💻 Languages that I know are : JS , PHP and SQL.
