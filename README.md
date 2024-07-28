@@ -22,10 +22,13 @@ Hi, I'm **Ali Al Haj Hassan**, a passionate **Full Stack Web Developer** with ov
 ### Backend
 - **Frameworks:**
   - Symfony
-  - Node.js
+
+### Runtime Environments
+- **Node.js**
 
 ### Databases
 - **MongoDB**
+- **MySQL**
 
 ### DevOps & Cloud
 - **Tools:**
@@ -38,8 +41,14 @@ Hi, I'm **Ali Al Haj Hassan**, a passionate **Full Stack Web Developer** with ov
   - Figma
   - Git (GitHub)
 
+## 🌐 Portfolio
+Check out my work at [My Portfolio](https://your-portfolio-url.com) <!-- Replace with your actual portfolio URL -->
+
 ## 📬 Contact Me
 - **Email:** [hajhassan.ali@outlook.com](mailto:hajhassan.ali@outlook.com)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-alihh961&show_icons=true&theme=radical)
 
 
 ---
